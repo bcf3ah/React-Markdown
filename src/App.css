@@ -2,8 +2,6 @@
 div .panel-body {
   padding: 5px 5px 5px 10px;
   min-height: 300px; }
-  div .panel-body * {
-    margin: 0; }
 
 div .CodeMirror {
   border: 1px solid rgba(192, 192, 192, 0.6);
